@@ -1,0 +1,35 @@
+body{
+  background-color: #04132e;
+  color: white;
+  text-align: center;
+  border: 30px #04c786 solid;
+  border-top: 0px;
+  margin: 0px;
+}
+h1
+{
+  color: #ff9f1c;
+}
+h2
+{
+  color: #2ec486;
+}
+p
+{
+  font-size: 16px;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+form
+{
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+#sub
+{
+background-color: #ff9f1c;
+height: 30px;
+width: 120px;
+font-style: normal;
+border-radius: 20px;
+}
